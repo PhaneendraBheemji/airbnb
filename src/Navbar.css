@@ -1,0 +1,37 @@
+.navbarair
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 60px;
+    background-color: bisque;
+    align-items: center;
+}
+.logoairbnb{
+    height: 35px;
+}
+.navlinks{
+    text-decoration: none;
+    color: black;
+}
+.navmiddle{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 2px solid black;
+    border-radius: 50px;
+    width: 300px;
+    height: 40px;
+    align-items: center;
+}
+.guestSearch{
+     display: flex;
+     flex-direction: row;
+    justify-content: space-around; 
+} 
+
+.navbarleft{
+    display: flex;
+     flex-direction: row;
+    justify-content: space-around;
+}

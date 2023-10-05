@@ -1,0 +1,22 @@
+.filtercontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.filterbox{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    align-items: center;
+}
+.tooglebox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    align-items: center;
+}
+

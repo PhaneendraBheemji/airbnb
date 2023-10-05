@@ -1,0 +1,17 @@
+{
+  "hotelinfo": [
+    {
+      "Image1": "https://destinationdeluxe.com/wp-content/uploads/2020/09/Sonnenalp-Resort-Spa-Wellness-Retreat-in-Germany-Destination-Deluxe-770x481.jpg",
+      "kilometers": "10.76km",
+      "dates": "27 oct to 28 oct",
+      "price": "7600/-"
+      
+    },
+    {
+      "Image1": "https://i1.wp.com/theluxurytravelexpert.com/wp-content/uploads/2018/02/THE-FAIRMONT-HOTEL-VIER-JAHRESZEITEN-HAMBURG.jpg?ssl=1",
+      "kilometers": "21km",
+      "dates": "05 oct to 10 oct",
+      "price": "10500/-"
+    }
+  ]
+}
